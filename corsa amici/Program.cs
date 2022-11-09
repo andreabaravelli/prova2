@@ -54,6 +54,10 @@ namespace corsa_amici
 
             SetCursorPosition(posBaldo,13);// ciao se c'è questo commento è la prima versione
             Write(" ‼");
+
+            // ciao questa è la seconda versione la prima che inserisco su git hub nella repository prova 2 del 09/11/2022 
+
+
         }
 
      
